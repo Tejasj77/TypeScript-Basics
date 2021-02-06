@@ -7,12 +7,12 @@ const enum Directon {
 let dir = Directon.Down
 console.log(dir)
 
-const enum Iterator {
+const enum Iteration {
     pahila,
     dusra=10,
     tisra,
     chotha
 }
 
-let iter = Iterator.tisra
+let iter = Iteration.tisra
 console.log(iter)

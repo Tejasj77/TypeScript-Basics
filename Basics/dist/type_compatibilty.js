@@ -1,7 +1,7 @@
 "use strict";
-var x;
-var y;
-var z = {
+let x;
+let y;
+let z = {
     name: 'Fred',
     lastname: 'Donovon',
     age: 8000
